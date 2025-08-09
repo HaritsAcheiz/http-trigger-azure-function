@@ -6,6 +6,11 @@
         "isEnabled": true,
         "excludedTypes": "Request"
       }
+    },
+    "fileLoggingMode": "debugOnly",
+    "logLevel": {
+      "Function.MyFunction": "Information",
+      "default": "None"
     }
   },
   "extensionBundle": {
