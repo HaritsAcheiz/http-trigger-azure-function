@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+az-function-http-trigger/.python-version
+az-function-http-trigger/pyproject.toml
+az-function-http-trigger/uv.lock
